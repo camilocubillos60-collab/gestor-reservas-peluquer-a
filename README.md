@@ -1,18 +1,19 @@
-## Getting Started
+# Gestor de Reservas para Peluquería
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Proyecto desarrollado en Java como práctica de programación orientada a objetos básica.
 
-## Folder Structure
+## Funcionalidades
 
-The workspace contains two folders by default, where:
+- Agendar citas.
+- Listar reservas.
+- Cancelar reservas.
+- Reporte del día.
+- Validación de datos.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Tecnologías
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Java
+- Scanner
+- Arreglos
+- Métodos
+- Estructuras de control
